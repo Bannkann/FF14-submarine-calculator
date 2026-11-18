@@ -1,0 +1,41 @@
+﻿位置,配装字符,级别,级别名,是否改级,部件,全名,简称,全名英文
+1,1,1,鲨鱼,否,船体,鲨鱼级船体,鲨鱼船体,Shark-class Hull
+1,1改,1,鲨鱼改,是,船体,鲨鱼改级船体,鲨鱼改船体,Modified Shark-class Hull
+1,2,2,甲鲎,否,船体,甲鲎级船体,甲鲎船体,Unkiu-class Hull
+1,2改,2,甲鲎改,是,船体,甲鲎改级船体,甲鲎改船体,Modified Unkiu-class Hull
+1,3,3,须鲸,否,船体,须鲸级船体,须鲸船体,Whale-class Hull
+1,3改,3,须鲸改,是,船体,须鲸改级船体,须鲸改船体,Modified Whale-class Hull
+1,4,4,腔棘鱼,否,船体,腔棘鱼级船体,腔棘鱼船体,Coelacanth-class Hull
+1,4改,4,腔棘鱼改,是,船体,腔棘鱼改级船体,腔棘鱼改船体,Modified Coelacanth-class Hull
+1,5,5,希尔德拉,否,船体,希尔德拉级船体,希尔德拉船体,Syldra-class Hull
+1,5改,5,希尔德拉改,是,船体,希尔德拉改级船体,希尔德拉改船体,Modified Syldra-class Hull
+2,1,1,鲨鱼,否,船尾,鲨鱼级船尾,鲨鱼船尾,Shark-class Stern
+2,1改,1,鲨鱼改,是,船尾,鲨鱼改级船尾,鲨鱼改船尾,Modified Shark-class Stern
+2,2,2,甲鲎,否,船尾,甲鲎级船尾,甲鲎船尾,Unkiu-class Stern
+2,2改,2,甲鲎改,是,船尾,甲鲎改级船尾,甲鲎改船尾,Modified Unkiu-class Stern
+2,3,3,须鲸,否,船尾,须鲸级船尾,须鲸船尾,Whale-class Stern
+2,3改,3,须鲸改,是,船尾,须鲸改级船尾,须鲸改船尾,Modified Whale-class Stern
+2,4,4,腔棘鱼,否,船尾,腔棘鱼级船尾,腔棘鱼船尾,Coelacanth-class Stern
+2,4改,4,腔棘鱼改,是,船尾,腔棘鱼改级船尾,腔棘鱼改船尾,Modified Coelacanth-class Stern
+2,5,5,希尔德拉,否,船尾,希尔德拉级船尾,希尔德拉船尾,Syldra-class Stern
+2,5改,5,希尔德拉改,是,船尾,希尔德拉改级船尾,希尔德拉改船尾,Modified Syldra-class Stern
+3,1,1,鲨鱼,否,船首,鲨鱼级船首,鲨鱼船首,Shark-class Bow
+3,1改,1,鲨鱼改,是,船首,鲨鱼改级船首,鲨鱼改船首,Modified Shark-class Bow
+3,2,2,甲鲎,否,船首,甲鲎级船首,甲鲎船首,Unkiu-class Bow
+3,2改,2,甲鲎改,是,船首,甲鲎改级船首,甲鲎改船首,Modified Unkiu-class Bow
+3,3,3,须鲸,否,船首,须鲸级船首,须鲸船首,Whale-class Bow
+3,3改,3,须鲸改,是,船首,须鲸改级船首,须鲸改船首,Modified Whale-class Bow
+3,4,4,腔棘鱼,否,船首,腔棘鱼级船首,腔棘鱼船首,Coelacanth-class Bow
+3,4改,4,腔棘鱼改,是,船首,腔棘鱼改级船首,腔棘鱼改船首,Modified Coelacanth-class Bow
+3,5,5,希尔德拉,否,船首,希尔德拉级船首,希尔德拉船首,Syldra-class Bow
+3,5改,5,希尔德拉改,是,船首,希尔德拉改级船首,希尔德拉改船首,Modified Syldra-class Bow
+4,1,1,鲨鱼,否,舰桥,鲨鱼级舰桥,鲨鱼舰桥,Shark-class Bridge
+4,1改,1,鲨鱼改,是,舰桥,鲨鱼改级舰桥,鲨鱼改舰桥,Modified Shark-class Bridge
+4,2,2,甲鲎,否,舰桥,甲鲎级舰桥,甲鲎舰桥,Unkiu-class Bridge
+4,2改,2,甲鲎改,是,舰桥,甲鲎改级舰桥,甲鲎改舰桥,Modified Unkiu-class Bridge
+4,3,3,须鲸,否,舰桥,须鲸级舰桥,须鲸舰桥,Whale-class Bridge
+4,3改,3,须鲸改,是,舰桥,须鲸改级舰桥,须鲸改舰桥,Modified Whale-class Bridge
+4,4,4,腔棘鱼,否,舰桥,腔棘鱼级舰桥,腔棘鱼舰桥,Coelacanth-class Bridge
+4,4改,4,腔棘鱼改,是,舰桥,腔棘鱼改级舰桥,腔棘鱼改舰桥,Modified Coelacanth-class Bridge
+4,5,5,希尔德拉,否,舰桥,希尔德拉级舰桥,希尔德拉舰桥,Syldra-class Bridge
+4,5改,5,希尔德拉改,是,舰桥,希尔德拉改级舰桥,希尔德拉改舰桥,Modified Syldra-class Bridge

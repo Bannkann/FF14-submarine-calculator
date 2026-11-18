@@ -1,0 +1,15 @@
+# build artifacts
+__pycache__/
+*.pyc
+
+# third-party data pack (~28MB), fetch with tools/fetch_datamining.py
+data/raw/
+
+# reference code from another site, not for redistribution
+ref/
+
+# packaged release
+dist/*.zip
+
+# 本地私有文档（维护说明、上传教程等），不上传
+本地文档/
